@@ -362,7 +362,7 @@ const Home = ({ searchParams }: SearchParamProps) => {
               ))}
             </div>
             <p className="text-dark-700 mb-4">
-              "CarePluse made booking my appointment so easy! The doctors are professional and caring. Highly recommend!"
+              &ldquo;CarePluse made booking my appointment so easy! The doctors are professional and caring. Highly recommend!&rdquo;
             </p>
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-full bg-green-500/20 flex items-center justify-center">
@@ -385,7 +385,7 @@ const Home = ({ searchParams }: SearchParamProps) => {
               ))}
             </div>
             <p className="text-dark-700 mb-4">
-              "The digital health records feature is a game-changer. I can access all my medical history in one place!"
+              &ldquo;The digital health records feature is a game-changer. I can access all my medical history in one place!&rdquo;
             </p>
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-full bg-blue-500/20 flex items-center justify-center">
@@ -408,7 +408,7 @@ const Home = ({ searchParams }: SearchParamProps) => {
               ))}
             </div>
             <p className="text-dark-700 mb-4">
-              "Outstanding service! The appointment reminders and 24/7 booking system make healthcare so convenient."
+              &ldquo;Outstanding service! The appointment reminders and 24/7 booking system make healthcare so convenient.&rdquo;
             </p>
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-full bg-green-500/20 flex items-center justify-center">
